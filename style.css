@@ -1,0 +1,19 @@
+h1 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+body {
+	background-image: url("images/bg1.jpg");
+}
+
+.time {
+	cursor: pointer;
+	padding: 10px;
+	margin: 2px;
+	border: 1px solid black;
+	position: relative;
+}
